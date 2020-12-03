@@ -6,7 +6,7 @@ params:
   palette: blue
   header:
     title: Agostino Cesarano
-    tagline: Header Tagline
+    tagline: ''
     profile_img: images/avatar.png
     background: dark
     has_nav: true
