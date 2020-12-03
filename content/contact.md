@@ -24,7 +24,7 @@ sections:
         default_value: Seleziona
         options:
           - Errore nel Sito
-          - Collabborazione
+          - Collaborazione
           - Other
       - input_type: textarea
         name: message
