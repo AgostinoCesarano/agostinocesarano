@@ -33,9 +33,7 @@ sections:
         default_value: Il tuo Messaggio
       - input_type: checkbox
         name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+        label: ' Sono consapevole che questo modulo sta memorizzando le mie informazioni inviate in modo che io possa essere contattato.'
     submit_label: Send Message
 layout: advanced
 ---
