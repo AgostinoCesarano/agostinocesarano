@@ -54,7 +54,7 @@ params:
         icon_class: fa-dev
         new_window: true
   footer:
-    content: '&copy; Tutti i diritti riservati.'
+    content: '&copy; Tutti i diritti sono riservati.'
     links:
       - label: ''
         url: 'https://www.stackbit.com'
