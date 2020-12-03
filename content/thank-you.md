@@ -4,6 +4,6 @@ img_path: images/thank-you.jpg
 layout: page
 ---
 
-Thank you for contacting me! I will get back in touch with you soon.
+Grazie per avermi contattato! Ti ricontatterò presto.
 
-**Have a great day!**
+**Vi auguro una buona giornata!**
