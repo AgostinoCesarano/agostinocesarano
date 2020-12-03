@@ -34,6 +34,6 @@ sections:
       - input_type: checkbox
         name: consent
         label: ' Sono consapevole che questo modulo sta memorizzando le mie informazioni in modo che io possa essere contattato.'
-    submit_label: Send Message
+    submit_label: Invia Messaggio
 layout: advanced
 ---
