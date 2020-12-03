@@ -1,21 +1,18 @@
-title: Stackbit Fresh Theme
+title: Agostino Cesarano
 baseURL: /
 params:
-  description: Personal blogging theme for Stackbit
+  description: ''
   layout_style: overflow
   palette: blue
   header:
     title: Agostino Cesarano
-    tagline: Header Tagline
+    tagline: ''
     profile_img: images/avatar.png
     background: dark
     has_nav: true
     nav_links:
       - label: Home
         url: /
-        style: link
-      - label: Blog
-        url: /blog/
         style: link
       - label: Chi sono
         url: /about/
