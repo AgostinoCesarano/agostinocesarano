@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: 'Ciao,ti do il benvenuto sul mio Blog'
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Qui pubblico tutte le attività individuali,scolastiche che svolgo
+      quotidianamente è che arricchiscono il mio Curriculum
   - section_id: about
     type: section_content
     title: ' A proposito di me'
