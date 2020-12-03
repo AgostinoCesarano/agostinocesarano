@@ -9,7 +9,7 @@ params:
     tagline: ''
     profile_img: images/avatar.png
     background: dark
-    has_nav: false
+    has_nav: true
     nav_links:
       - label: Home
         url: /
