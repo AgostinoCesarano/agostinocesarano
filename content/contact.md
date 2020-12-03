@@ -20,7 +20,7 @@ sections:
         is_required: true
       - input_type: select
         name: Oggetto
-        label: Subject
+        label: Oggetto
         default_value: Please select
         options:
           - Error on the site
