@@ -3,7 +3,7 @@ baseURL: /
 params:
   description: ''
   layout_style: overflow
-  palette: blue
+  palette: green
   header:
     title: Agostino Cesarano
     tagline: Header Tagline
