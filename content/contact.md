@@ -19,7 +19,7 @@ sections:
         default_value: Il tuo indirizzo email
         is_required: true
       - input_type: select
-        name: subject
+        name: Oggetto
         label: Subject
         default_value: Please select
         options:
