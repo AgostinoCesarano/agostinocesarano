@@ -24,7 +24,7 @@ sections:
         default_value: Seleziona
         options:
           - Errore nel Sito
-          - Sponsorship
+          - Collabborazione
           - Other
       - input_type: textarea
         name: message
