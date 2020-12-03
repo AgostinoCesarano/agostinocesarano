@@ -26,6 +26,7 @@ sections:
           - Errore nel Sito
           - Collaborazione
           - Altro
+        is_required: true
       - input_type: textarea
         name: message
         label: Message
