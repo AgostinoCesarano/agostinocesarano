@@ -38,11 +38,6 @@ params:
         style: icon
         icon_class: fa-github
         new_window: true
-      - label: DEV
-        url: 'https://dev.to/'
-        style: icon
-        icon_class: fa-dev
-        new_window: true
   footer:
     content: '&copy; Tutti i diritti sono riservati.'
     links:
