@@ -12,10 +12,12 @@ sections:
     type: section_content
     title: ' A proposito di me'
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      Sono un ragazzo diciottenne con la passione dell'informatica. Ho
+      frequentato l'iti Pacinotti di Scafati (indirizzo elettronico) dove ho
+      potuto studiare le basi in materia elettronica ed elettrotecnica,mentre in
+      maniera autonoma stavo coltivando la mia passione
+      l'informatica.Attualmente sono inscritto alla facolta di Informatica della
+      Federico II di Napoli dove sto frequentando il primo anno di studi.
     actions:
       - label: Contattami
         url: /contact
