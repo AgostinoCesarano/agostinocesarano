@@ -8,7 +8,7 @@ params:
     title: Agostino Cesarano
     tagline: ''
     profile_img: images/avatar.png
-    background: light
+    background: dark
     has_nav: true
     nav_links:
       - label: Home
