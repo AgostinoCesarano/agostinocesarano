@@ -7,8 +7,7 @@ sections:
     title: 'Ciao,ti do il benvenuto sul mio Blog'
     content: >-
       Qui pubblico tutte le attività individuali e scolastiche che svolgo
-      quotidianamente.Ci saranno guide,contenuti scolastici e non che possono
-      aiutarvi,intrattenervi per qualche minuto.
+      quotidianamente.Ci saranno guide,contenuti scolastici e non solo.
   - section_id: about
     type: section_content
     title: ' A proposito di me'
