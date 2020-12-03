@@ -6,8 +6,9 @@ sections:
     type: section_hero
     title: 'Ciao,ti do il benvenuto sul mio Blog'
     content: >-
-      Qui pubblico tutte le attività individuali,scolastiche che svolgo
-      quotidianamente è che arricchiscono il mio Curriculum
+      Qui pubblico tutte le attività individuali e scolastiche che svolgo
+      quotidianamente.Ci saranno guide,contenuti scolastici e non che possono
+      aiutarvi,intrattenervi per qualche minuto.
   - section_id: about
     type: section_content
     title: ' A proposito di me'
