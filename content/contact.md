@@ -21,7 +21,7 @@ sections:
       - input_type: select
         name: Oggetto
         label: Oggetto
-        default_value: Please select
+        default_value: Seleziona
         options:
           - Error on the site
           - Sponsorship
