@@ -23,7 +23,7 @@ sections:
         label: Oggetto
         default_value: Seleziona
         options:
-          - Error on the site
+          - Errore nel Sito
           - Sponsorship
           - Other
       - input_type: textarea
