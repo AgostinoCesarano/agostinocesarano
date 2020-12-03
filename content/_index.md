@@ -12,11 +12,11 @@ sections:
     type: section_content
     title: ' A proposito di me'
     content: >-
-      Sono un ragazzo diciottenne con la passione dell'informatica. Ho
+      Sono un ragazzo diciottenne con la passione dell'Informatica. Ho
       frequentato l'iti Pacinotti di Scafati (indirizzo elettronico) dove ho
       potuto studiare le basi in materia elettronica ed elettrotecnica,mentre in
-      maniera autonoma stavo coltivando la mia passione
-      l'informatica.Attualmente sono inscritto alla facolta di Informatica della
+      maniera autonoma stavo coltivando la mia passione per
+      l'Informatica.Attualmente sono inscritto alla facolta di Informatica della
       Federico II di Napoli dove sto frequentando il primo anno di studi.
     actions:
       - label: Contattami
