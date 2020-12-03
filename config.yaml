@@ -32,7 +32,7 @@ params:
         url: 'https://twitter.com/'
         style: icon
         icon_class: fa-twitter
-        new_window: true
+        new_window: false
       - label: Instagram
         url: 'https://www.instagram.com/agostino_cesarano/'
         style: icon
