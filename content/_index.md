@@ -22,10 +22,6 @@ sections:
       - label: Contattami
         url: /contact
         style: button
-  - section_id: recent-posts
-    type: section_posts
-    title: Post Recenti
-    posts_number: 0
     actions: []
 layout: advanced
 ---
